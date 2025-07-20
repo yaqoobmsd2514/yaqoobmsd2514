@@ -14,8 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey.svg?logo=mysql)
 
-📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/yaqoob-m(https://www.linkedin.com/in/muhammad-yaqoob-20b5a52a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+📫 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yaqoob-m)  
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:yaqoob2514@gmail.com)
 
 📊 GitHub Stats:
