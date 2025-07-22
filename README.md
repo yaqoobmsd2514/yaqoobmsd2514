@@ -5,6 +5,7 @@
 - 🌐 Web Development
 - 📊 Data and Databases
 - 💡 Creative Problem Solving & Tech Innovation
+- 🧠 C++ 💻 & 🐍 Python 🔥
 
 🔧 Tech Stack:
 ![C](https://img.shields.io/badge/C-blue.svg?logo=c)
