@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Muhammad Yaqoob
 
-💻 I'm a passionate Computer Science student at UET Peshawar with interests in:
+💻 I'm a passionate Computer Science student at UET Peshawar also a Web Dev student at SMIT Peshawar with interests in:
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Web Development
 - 📊 Data and Databases
